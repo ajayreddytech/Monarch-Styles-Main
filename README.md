@@ -27,4 +27,5 @@ Check out the live demo here: [Monarch Styles Demo](https://crwn-clothing-react.
 ---
 
 # Run the project
+npm install
 npm start
