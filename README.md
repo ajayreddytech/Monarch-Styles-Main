@@ -24,8 +24,3 @@ Developed a full-stack e-commerce website using **React, Redux, TypeScript, and 
 
 Check out the live demo here: [Monarch Styles Demo](https://crwn-clothing-react.azurewebsites.net/)
 
----
-
-# Run the project
-npm install
-npm start
