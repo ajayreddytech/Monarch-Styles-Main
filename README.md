@@ -1,4 +1,4 @@
-# 👑 Monarch Styles - Fashion E-commmerce Store
+# 👑 Monarch Styles - Fashion E-commerce Store
 
 Developed a full-stack e-commerce website using **React, Redux, TypeScript, and Firebase**. Integrated **Google Authentication**, **Firestore inventory management**, and **Stripe checkout** to deliver a secure, seamless, and high-performance shopping experience.  
 
